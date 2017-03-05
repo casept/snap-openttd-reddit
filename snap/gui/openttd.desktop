@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=OpenTTD (reddit client)
+Icon=${SNAP}/meta/gui/openttd.png
+Exec=openttd-reddit-casept.openttd %u
+Terminal=false
+Categories=Game;
+Comment=A clone of Transport Tycoon Deluxe
+Keywords=game;simulation;transport;tycoon;deluxe;economics;multiplayer;money;train;ship;bus;truck;aircraft;cargo;
